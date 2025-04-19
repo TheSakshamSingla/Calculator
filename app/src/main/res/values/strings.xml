@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="percent">%</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">−</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="decimal">.</string>
+    <string name="parenthesis_open">(</string>
+    <string name="parenthesis_close">)</string>
+    <string name="plus_minus">±</string>
+    <string name="scientific_mode">Scientific Mode</string>
+    <string name="standard_mode">Standard Mode</string>
+    <string name="history">History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No calculation history</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="factorial">x!</string>
+    <string name="square">x²</string>
+    <string name="power">xʸ</string>
+    <string name="sqrt">√</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="theme">Theme</string>
+</resources>
